@@ -1,4 +1,4 @@
-package srList
+package list
 
 import (
 	"fmt"
